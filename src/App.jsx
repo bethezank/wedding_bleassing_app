@@ -258,7 +258,7 @@ function Agenda() {
   );
 }
 
-function BlessingForm({ form, hideNames, setHideNames, handleSubmit, blessings, maskName }) {
+function BlessingForm({ form, hideNames, setHideNames, handleSubmit, blessings,  }) {
   return (
     <div id="blessings" style={{ padding: '80px 24px', background: '#fce4ec' }}>
       <Row justify="center">
